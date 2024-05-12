@@ -1,0 +1,15 @@
+.img-h {
+    height: 500px;
+}
+
+.textos {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.titulos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
